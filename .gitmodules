@@ -1,0 +1,3 @@
+[submodule "resemblance"]
+	path = resemblance
+	url = https://github.com/matpalm/resemblance
